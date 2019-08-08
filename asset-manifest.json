@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/testing-react/static/css/main.2cce8147.chunk.css",
+    "main.js": "/testing-react/static/js/main.5466c1fa.chunk.js",
+    "main.js.map": "/testing-react/static/js/main.5466c1fa.chunk.js.map",
+    "runtime~main.js": "/testing-react/static/js/runtime~main.f58d18e6.js",
+    "runtime~main.js.map": "/testing-react/static/js/runtime~main.f58d18e6.js.map",
+    "static/js/2.b41502e9.chunk.js": "/testing-react/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/testing-react/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/testing-react/index.html",
+    "precache-manifest.f19792a50bc2c6152392a3a5f1049ff3.js": "/testing-react/precache-manifest.f19792a50bc2c6152392a3a5f1049ff3.js",
+    "service-worker.js": "/testing-react/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/testing-react/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/testing-react/static/media/logo.5d5d9eef.svg"
+  }
+}
